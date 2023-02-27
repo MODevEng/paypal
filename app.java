@@ -1,5 +1,6 @@
-I receive Mercy from the Lord!
-So shall it be!
+We support;
+java apps
 .net applications
 NodeJS applications
 python application
+web applications
