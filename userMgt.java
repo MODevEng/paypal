@@ -4,3 +4,4 @@ dominion
 faith
 ayo
 obi
+manager
